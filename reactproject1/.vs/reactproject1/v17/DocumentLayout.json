@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enriq\\Desktop\\ReacVs\\baseReact\\reactproject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A40548F2-0255-4AAA-A127-6C11FA243EC9}|reactproject1\\reactproject1.esproj|c:\\users\\enriq\\desktop\\reacvs\\basereact\\reactproject1\\reactproject1\\src\\excel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A40548F2-0255-4AAA-A127-6C11FA243EC9}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\src\\excel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40548F2-0255-4AAA-A127-6C11FA243EC9}|reactproject1\\reactproject1.esproj|c:\\users\\enriq\\desktop\\reacvs\\basereact\\reactproject1\\reactproject1\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A40548F2-0255-4AAA-A127-6C11FA243EC9}|reactproject1\\reactproject1.esproj|solutionrelative:reactproject1\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Excel.jsx",
+              "DocumentMoniker": "C:\\Users\\enriq\\Desktop\\ReacVs\\baseReact\\reactproject1\\reactproject1\\src\\Excel.jsx",
+              "RelativeDocumentMoniker": "reactproject1\\src\\Excel.jsx",
+              "ToolTip": "C:\\Users\\enriq\\Desktop\\ReacVs\\baseReact\\reactproject1\\reactproject1\\src\\Excel.jsx",
+              "RelativeToolTip": "reactproject1\\src\\Excel.jsx",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAD0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-18T22:21:15.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\enriq\\Desktop\\ReacVs\\baseReact\\reactproject1\\reactproject1\\src\\App.jsx",
+              "RelativeDocumentMoniker": "reactproject1\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\enriq\\Desktop\\ReacVs\\baseReact\\reactproject1\\reactproject1\\src\\App.jsx",
+              "RelativeToolTip": "reactproject1\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-18T21:22:02.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
